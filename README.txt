@@ -1,0 +1,4 @@
+以下の書籍を元にCatalystを勉強
+
+参考書
+Perlフレームワーク Catalyst 完全入門
